@@ -1,0 +1,19 @@
+{
+  "name": "com.codelibrary24.gameeventsystem",
+  "version": "1.0.0",
+  "displayName": "Game Event System",
+  "description": "A scriptable object based Game Event System",
+  "documentationUrl": "https://ambargames.com/",
+  "changelogUrl": "https://ambargames.com/",
+  "licensesUrl": "https://ambargames.com/",
+  "keywords": [
+    "keyword1",
+    "keyword2",
+    "keyword3"
+  ],
+  "author": {
+    "name": "CircusCharlie",
+    "email": "circuscharlie2428@gmail.com",
+    "url": "https://www.ambargames.com"
+  }
+}
