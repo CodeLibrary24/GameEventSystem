@@ -1,3 +1,14 @@
 {
-	"name": "com.codelibrary24.gameeventsystem"
+    "name": "com.codelibrary24.gameeventsystem",
+    "rootNamespace": "codelibrary24.gameeventsystem",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
 }
